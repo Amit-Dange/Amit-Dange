@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [amitdange.hashnode.dev](amitdange.hashnode.dev)
 
-- 💬 Ask me about **Spring Boot, Machine Learning and OS related Queries**
+- 💬 Ask me about **Spring Boot, Machine Learning, Blockchain and OS related Queries**
 
 - 📫 How to reach me **amitdange123450@gmail.com**
 
